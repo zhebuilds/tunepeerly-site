@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  /* ===== 发布版本：升级时只改这里（HTML 里的同名文字是无 JS 时的后备，见 README） ===== */
+  /* ===== 发布版本：升级时只改这里（HTML 里的同名文字是无 JS 时的后备） ===== */
   var VERSION = "0.8.0-alpha.1";
   var REPO = "https://github.com/zhebuilds/TunePeerly";
 
